@@ -19,7 +19,7 @@ This implementation uses backtracking with constraint propagation:
 ## Usage
 
 ```bash
-go run nqueens.go
+go run queens.go
 ```
 
 Input N when prompted. The program outputs all solutions and the total count.
@@ -70,8 +70,8 @@ All tests validate correctness against known solution counts and verify no queen
 
 ## Implementation
 
-- `nqueens.go`: Main solver with backtracking algorithm
-- `nqueens_test.go`: Comprehensive test suite
+- `queens.go`: Main solver with backtracking algorithm
+- `queens_test.go`: Comprehensive test suite
 
 ## Repository
 

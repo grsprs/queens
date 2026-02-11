@@ -11,7 +11,7 @@ go build
 ## Run
 
 ```bash
-go run nqueens.go
+go run queens.go
 ```
 
 Input N when prompted.
