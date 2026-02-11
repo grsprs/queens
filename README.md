@@ -1,5 +1,10 @@
 # N-Queens Problem Solver
 
+[![Go Version](https://img.shields.io/github/go-mod/go-version/grsprs/queens)](https://go.dev/)
+[![License](https://img.shields.io/github/license/grsprs/queens)](LICENSE)
+[![CI](https://github.com/grsprs/queens/workflows/Go/badge.svg)](https://github.com/grsprs/queens/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/grsprs/queens)](https://goreportcard.com/report/github.com/grsprs/queens)
+
 Author: Spiros Nikoloudakis (@grsprs)
 
 A backtracking algorithm implementation in Go that solves the N-Queens problem.
